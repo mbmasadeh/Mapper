@@ -8,7 +8,7 @@ namespace Mapper.ViewModels
     public class InfoViewModel
     {
         public int ID { get; set; }
-        public string FullName { get; set; }
-        public string FullAddress { get; set; }
+        public string Name { get; set; }
+        public string Address { get; set; }
     }
 }
